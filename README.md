@@ -6,7 +6,7 @@
 <summary><b>⚡ Github Stats</b></summary>
 
   <div>
-  <img src="https://skillicons.dev/icons?i=git,idea,java,postgres" />
+  <img src="https://skillicons.dev/icons?i=git,idea,java,postgres,angular" />
 </div>
 
     
