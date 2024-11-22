@@ -1,16 +1,18 @@
-## Hi there 👋
+## Olá, eu sou o Augusto Toscano
+<div>
+<img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=atsneto&theme=blue-green"/>
+ <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atsneto&theme=blue-green"/>
+</div>
+<summary><b>⚡ Github Stats</b></summary>
 
-<!--
-**atsneto/atsneto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <div>
+  <img src="https://skillicons.dev/icons?i=git,vscode,java,postman,postgres,py,linux,idea" />
+</div>
 
-Here are some ideas to get you started:
+    
+  <summary><b>🔥 Github Streaks</b></summary>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=atsneto&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="atsneto" /></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"> 
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atsneto" alt="GG" /></a>
+ </p>
