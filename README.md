@@ -1,13 +1,33 @@
-## Olá, eu sou o Augusto Toscano
-<div>
-<img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=atsneto&theme=blue-green"/>
- <br>
- <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atsneto&theme=blue-green"/>
-</div>
-<summary><b>⚡ Github Stats</b></summary>
+## Olá, meu nome é Augusto!
+### Desenvolvedor Back-end
+- 🎓 Estudando ADS na UNP.
+- 🌱 Aprendendo mais sobre Java.
 
-  <div>
-  <img src="https://skillicons.dev/icons?i=git,idea,java,postgres,angular,python" />
-</div>
+### ⚙️ GitHub Analytics
 
-
+<table>
+  <tr>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api?username=atsnetoa&theme=dark&hide_border=false&include_all_commits=true"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=atsneto&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <br />
+      <img
+        align="left"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=atsneto&theme=dark&hide_border=false"
+        alt="Github Stats"
+      />
+    </td>
+  </tr>
+</table>
