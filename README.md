@@ -16,9 +16,4 @@
     alt="Top Langs"
     width="33%"
   />
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=atsneto&theme=dark&hide_border=false"
-    alt="GitHub Streak"
-    width="33%"
-  />
 </p>
