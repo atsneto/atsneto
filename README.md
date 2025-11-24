@@ -1,19 +1,19 @@
-## Olá, meu nome é Augusto!
-### Desenvolvedor Back-end
-- 🎓 Estudando ADS na UNP.
-- 🌱 Aprendendo mais sobre Java.
+## Junior Programmer at @esigsoftware
 
-### ⚙️ GitHub Analytics
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Augusto%20Toscano-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/augusto-toscano-b81740295/)
+[![Gmail](https://img.shields.io/badge/Gmail-toscanosorrentinonetoa%40gmail.com-red?logo=gmail&logoColor=white)](mailto:toscanosorrentinonetoa@gmail.com)
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=atsneto&theme=dark&hide_border=false&include_all_commits=true"
-    alt="GitHub Stats"
-    width="33%"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=atsneto&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-    alt="Top Langs"
-    width="33%"
-  />
-</p>
+---
+
+![](https://github.com/ayushkumar-25/ayushkumar-25/blob/master/aboutMe.png)
+
+## About Me
+
+#### Desenvolvedor web apaixonado por tecnologia e sempre buscando aprender algo novo.  
+Tenho interesse em desenvolvimento full-stack, boas práticas, arquitetura de software e soluções que realmente ajudam pessoas.  
+A programação e os desafios técnicos são o que me mantêm motivado todos os dias.
+
+---
+
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+
