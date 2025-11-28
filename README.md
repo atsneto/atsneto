@@ -5,8 +5,6 @@
 
 ---
 
-![](https://github.com/ayushkumar-25/ayushkumar-25/blob/master/aboutMe.png)
-
 ## About Me
 
 #### Desenvolvedor web apaixonado por tecnologia e sempre buscando aprender algo novo.  
